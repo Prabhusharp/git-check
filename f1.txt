@@ -1,1 +1,5 @@
+HEAD
 modified in second branch
+=======
+f1 modified
+master
